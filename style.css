@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(pink,lavender,lightblue);
+    color: black;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+    background-color: cornflowerblue;
+}
+
+#camera{
+    border: 2px dashed rgb(204, 0, 0) ;
+    width: 350px;
+    height: 300px;
+    margin-top: 5px;
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy{
+font-family: 'Courier New', Courier, monospace;
+font-size: 18px;
+color: darkgoldenrod;
+}
